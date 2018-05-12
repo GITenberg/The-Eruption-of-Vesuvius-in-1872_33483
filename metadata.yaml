@@ -1,0 +1,37 @@
+_repo: The-Eruption-of-Vesuvius-in-1872_33483
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mallet, Robert
+    alias: Mallet, R. (Robert)
+    birthdate: 1810
+    deathdate: 1881
+    gutenberg_agent_id: '36434'
+    url: http://www.gutenberg.org/2009/agents/36434
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Mallet
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmieri, Luigi
+    birthdate: 1807
+    deathdate: 1896
+    gutenberg_agent_id: '36433'
+    url: http://www.gutenberg.org/2009/agents/36433
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Palmieri
+description: ''
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33483'
+  lccn: '12006923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Vesuvius (Italy)'
+title: The Eruption of Vesuvius in 1872
+url: http://www.gutenberg.org/ebooks/33483
